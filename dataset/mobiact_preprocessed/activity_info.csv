@@ -1,0 +1,17 @@
+No.,Label,Activity,Trials,Duration,Description,label_encoded
+1,STD,Standing,1,5min,Standing with subtle movements,0
+2,WAL,Walking,1,5min,Normal walking,1
+3,JOG,Jogging,3,30s,Jogging,2
+4,JUM,Jumping,3,30s,Continuous jumping,3
+5,STU,Stairs up,6,10s,Stairs up (10 stairs),4
+6,STN,Stairs down,6,10s,Stairs down (10 stairs),5
+7,SCH,Stand to sit(sit on chair),6,6s,Transition from standing to sitting,6
+8,SIT,Sitting on chair,1,1min,Sitting on a chair with subtle movements,7
+9,CHU,Sit to stand(chair up),6,6s,Transition from sitting to standing,8
+10,CSI,Car-step in,6,6s,Step in a car,9
+11,CSO,Car-step out,6,6s,Step out a car,10
+12,LYI,Lying,12,-,Activity taken from the lying period after a fall,11
+10,FOL,Forward-lying,3,10s,"Fall Forward from standing, use of hands to dampen fall",12
+11,FKL,Front-knees-lying,3,10s,"Fall forward from standing, first impact on knees",13
+12,BSC,Back-sitting-chair,3,10s,Fall backward while trying to sit on a chair,14
+13,SDL,Sideward-lying,3,10s,"Fall sidewards from standing, bending legs",15
