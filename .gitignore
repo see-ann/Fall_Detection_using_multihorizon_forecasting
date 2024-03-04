@@ -1,9 +1,8 @@
 results/
 repo/
-dataset
 dataset/dlr_preprocessed/
 dataset/mobiact_dataset/
-dataset/mobiact_preprocessed/
+dataset/
 dataset/notch_dataset/
 dataset/smartFall_dataset/
 
